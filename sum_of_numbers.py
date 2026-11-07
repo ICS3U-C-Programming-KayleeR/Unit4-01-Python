@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 # Created By: Kaylee R
 # Date: 05, 11, 2026
-# This program
+# This program asks user for an integer input.
+# It checks if the integer is greater than the counter, if true
+# it adds 1 to the counter. This creates a loop which it will track.
+# The program then gives the sum of the numbers from 0 to the counter
+# after the loop ends.
 
 
 def main():
@@ -35,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
